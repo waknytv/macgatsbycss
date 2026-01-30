@@ -1,0 +1,27 @@
+{
+  "name": "be-web-vitrine",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Site vitrine Gatsby pour BE WEB",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.12.0",
+    "gatsby-plugin-image": "^3.12.0",
+    "gatsby-plugin-react-helmet": "^6.12.0",
+    "gatsby-plugin-sitemap": "^6.12.0",
+    "gatsby-plugin-terser": "^3.12.0",
+    "gatsby-plugin-sharp": "^5.12.0",
+    "gatsby-source-filesystem": "^5.12.0",
+    "gatsby-transformer-remark": "^6.12.0",
+    "gatsby-transformer-sharp": "^5.12.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "gatsby-plugin-google-analytics": "^5.12.0"
+  }
+}
